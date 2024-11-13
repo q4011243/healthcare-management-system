@@ -81,11 +81,14 @@ healthcare-management/
 
 ## 📱 界面预览
 
-![系统截图1](https://raw.githubusercontent.com/q4011243/images_lib/refs/heads/main/1_healthcare_management/dashboard.png){width=400px}
-![系统截图2](https://github.com/q4011243/images_lib/blob/main/1_healthcare_management/admission.png?raw=true){width=400px}
-![系统截图3](https://github.com/q4011243/images_lib/blob/main/1_healthcare_management/login.png?raw=true){width=400px}
-![系统截图4](https://github.com/q4011243/images_lib/blob/main/1_healthcare_management/patient.png?raw=true){width=400px}
-![系统截图5](https://github.com/q4011243/images_lib/blob/main/1_healthcare_management/ward.png?raw=true){width=400px}
+<div style="display: flex; flex-direction: row; gap: 20px;flex-wrap: wrap;">
+  <img src="https://raw.githubusercontent.com/q4011243/images_lib/refs/heads/main/1_healthcare_management/dashboard.png" width="300px"/>
+  <img src="https://raw.githubusercontent.com/q4011243/images_lib/refs/heads/main/1_healthcare_management/admission.png" width="300px"  />
+  <img src="https://raw.githubusercontent.com/q4011243/images_lib/refs/heads/main/1_healthcare_management/login.png" width="300px"/>
+  <img src="https://raw.githubusercontent.com/q4011243/images_lib/refs/heads/main/1_healthcare_management/patient.png" width="300px"  />
+  <img src="https://raw.githubusercontent.com/q4011243/images_lib/refs/heads/main/1_healthcare_management/ward.png" width="300px"/>
+
+</div>
 
 ## 🤝 贡献指南
 
