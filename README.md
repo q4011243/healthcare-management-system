@@ -81,11 +81,11 @@ healthcare-management/
 
 ## 📱 界面预览
 
-![系统截图1](https://raw.githubusercontent.com/q4011243/images_lib/refs/heads/main/1_healthcare_management/dashboard.png)
-![系统截图2](https://github.com/q4011243/images_lib/blob/main/1_healthcare_management/admission.png?raw=true)
-![系统截图3](https://github.com/q4011243/images_lib/blob/main/1_healthcare_management/login.png?raw=true)
-![系统截图4](https://github.com/q4011243/images_lib/blob/main/1_healthcare_management/patient.png?raw=true)
-![系统截图5](https://github.com/q4011243/images_lib/blob/main/1_healthcare_management/ward.png?raw=true)
+![系统截图1](https://raw.githubusercontent.com/q4011243/images_lib/refs/heads/main/1_healthcare_management/dashboard.png){width=400px}
+![系统截图2](https://github.com/q4011243/images_lib/blob/main/1_healthcare_management/admission.png?raw=true){width=400px}
+![系统截图3](https://github.com/q4011243/images_lib/blob/main/1_healthcare_management/login.png?raw=true){width=400px}
+![系统截图4](https://github.com/q4011243/images_lib/blob/main/1_healthcare_management/patient.png?raw=true){width=400px}
+![系统截图5](https://github.com/q4011243/images_lib/blob/main/1_healthcare_management/ward.png?raw=true){width=400px}
 
 ## 🤝 贡献指南
 
